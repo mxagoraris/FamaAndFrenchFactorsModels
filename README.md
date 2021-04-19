@@ -1,5 +1,5 @@
 # CAPM, Fama And French Factors Models
- The implementation creates CAPM, a three &amp; five factors model for a given stock (you choose a ticker) using Fama and French models
+ The implementation creates CAPM, a three &amp; five factors model for a given stock (you choose a ticker) using Fama and French models.
  CAPM is a financial model that describes the relationship between systematic risk and expected return assets. CAPM is widely used throughout finance for pricing risky securities and generating expected returns for assets given the risk of those assets and cost of capital.(https://www.investopedia.com/terms/c/capm.asp). 
  As systematic risk we define the risk that cannot be further diversified. 
  
