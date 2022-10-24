@@ -6,7 +6,7 @@
 E(R) = rf + beta (rm - rf)
 Where: rf is the risk free rate
        beta is the systematic risk 
-       rm-rf is the risk premium
+       rm-rf is the risk premiums
        
 Fama and French Factors Model
 
